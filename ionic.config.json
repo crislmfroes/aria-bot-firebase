@@ -1,5 +1,7 @@
 {
   "name": "aria-bot-firebase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
